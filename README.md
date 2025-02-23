@@ -1,4 +1,4 @@
 # dio-java-basico
 
 Repositorio para armazenar todo o conteudo do curso de Java Basico
-novo
+Esse é meu primeiro commit
